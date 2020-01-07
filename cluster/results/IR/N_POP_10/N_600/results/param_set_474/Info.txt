@@ -1,0 +1,16 @@
+
+Results obtained with combination of parameters : 
+un_year  :  1978.915 
+un_max  :  0.8797356 
+un_min  :  0.03392918 
+uk  :  0.1880324 
+th_edu  :  21.65966 
+w_pnty  :  0.5506689 
+post_edu  :  5.368682 
+gamma  :  37.17718 
+kappa  :  0.5083609 
+d  :  0.06558996 
+ini_d  :  5.006768 
+diff_d  :  0.2401401 
+d_norm  :  2.431452 
+purpose  :  1 
