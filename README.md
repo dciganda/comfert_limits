@@ -7,4 +7,6 @@ Open main.R and choose the country ("FR","IR" or "ES"), the time window, the siz
 
 main.R calls the files with the data and parameters for the selected country and the model (comfert.R). The parameters can be modified by accessing the files in data/'country'/in.
 
-After all the runs are finished main.R creates a new directory, saves the results and plots simulated vs observed indicators including age-specific rates, desired family sizes, mean ages at different parities, cohort fertility, etc.
+After all the runs are finished main.R creates a new directory, saves the results and plots simulated vs observed indicators.
+
+The cluster/ folder contains the files needed to run the model for a large sample of parameter combinations in a computing cluster.   
