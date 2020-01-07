@@ -1,4 +1,4 @@
-# comfert
+# comfert_limits
 The Limits to Fertility Recuperation. Code &amp; Data
 
 The local/ folder contains the R files and data needed to run the comfert algorithm in a local machine. 
