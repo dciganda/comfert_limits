@@ -1,7 +1,7 @@
 # comfert_limits
 The Limits to Fertility Recuperation. Code &amp; Data
 
-The `[local](local)` folder contains the R files and data needed to run the comfert algorithm in a local machine. 
+The [local](local) folder contains the R files and data needed to run the comfert algorithm in a local machine. 
 
 Open main.R and choose the country ("FR","IR" or "ES"), the time window, the size of the initial cohorts and the number of repetitions to run in parallel (depening on the resources available in your machine).
 
